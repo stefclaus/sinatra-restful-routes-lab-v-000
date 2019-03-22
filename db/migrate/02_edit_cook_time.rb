@@ -1,4 +1,4 @@
-class EditCookTime < ActiveRecord::Migration[4.2]
+class EditCookTime < ActiveRecord::Migration
 
 #  def change
 #    create_table :users do |t|
